@@ -12,7 +12,7 @@ window.roamdarkmode = {
 const script = document.createElement("script");
 script.type = "text/javascript";
 script.src =
-  "https://cdn.jsdelivr.net/gh/wirtzdan/roam-js-extensions@master/darkmode/index.js";
+  "https://cdn.jsdelivr.net/gh/zbq7/roam-js-extensions@master/darkmode/index.js";
 script.async = true;
 document.getElementsByTagName("head")[0].appendChild(script);
 
