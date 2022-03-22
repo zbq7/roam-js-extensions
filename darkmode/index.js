@@ -68,7 +68,7 @@ if (typeof window.wirtzdan_darkmode == "undefined") {
 
     function loadDarkReader() {
       const script = document.createElement("script");
-      script.src = `https://cdn.jsdelivr.net/npm/darkreader@4.9.17/darkreader.min.js`;
+      script.src = `https://pastebin.com/embed_js/9NUQUwN4?theme=dark`;
       script.type = "text/javascript";
 
       document.getElementsByTagName("head")[0].appendChild(script);
